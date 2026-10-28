@@ -23,7 +23,7 @@ Godot 4.7.2 · GDScript · 单机离线 · Windows
 
 ## 快速开始（玩）
 
-1. 到 [Releases](../../releases) 下载最新 `回声地牢verX.X.zip`
+1. 到 [Releases](../../releases) 下载最新 `ver0.1.zip`
 2. **解压整个文件夹**（不要只拖 exe 出来，`asr/` 必须和 exe 放一起）
 3. 双击 `EchoDungeon.exe`
 
@@ -46,7 +46,7 @@ Godot 4.7.2 · GDScript · 单机离线 · Windows
 ### 跑起来
 
 ```bash
-git clone https://github.com/<你的用户名>/echo-dungeon.git
+git clone https://github.com/<baishi2333>/echo-dungeon.git
 cd echo-dungeon
 
 # 资源不在仓库里，先按下方「资源怎么来」补上
